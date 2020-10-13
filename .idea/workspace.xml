@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
+    <expand />
+    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-    </expand>
-    <select />
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51a6b679-9be1-49f4-9219-75f7605f72d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/js_data_structures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602626305680</updated>
-      <workItem from="1602626307167" duration="5722000" />
+      <workItem from="1602626307167" duration="6100000" />
     </task>
     <servers />
   </component>
@@ -85,6 +79,10 @@
       <screen x="-3840" y="-287" width="3840" height="2120" />
     </state>
     <state x="-1850" y="421" key="SettingsEditor/0.0.1920.1040/-3840.-287.3840.2120@-3840.-287.3840.2120" timestamp="1602629116297" />
+    <state x="-1504" y="691" key="VCS.ChangelistChooser" timestamp="1602632259502">
+      <screen x="-3840" y="-287" width="3840" height="2120" />
+    </state>
+    <state x="-1504" y="691" key="VCS.ChangelistChooser/0.0.1920.1040/-3840.-287.3840.2120@-3840.-287.3840.2120" timestamp="1602632259502" />
     <state x="-1688" y="213" width="672" height="678" key="search.everywhere.popup" timestamp="1602628622488">
       <screen x="-3840" y="-287" width="3840" height="2120" />
     </state>
