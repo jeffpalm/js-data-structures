@@ -1,0 +1,17 @@
+{
+  "name": "js-data-structures",
+  "version": "0.0.1",
+  "description": "Data structures in JavaScript",
+  "main": "index.js",
+  "author": "Jeff Palmer <jeff@palmytree.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@jest/globals": "^26.5.3",
+    "jest": "^26.5.3",
+    "prettier": "^2.1.2"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  }
+}
